@@ -6,7 +6,7 @@
 }
 
 .main_box {
-    background: url("Camera.jpg");
+    background: url("Images/Camera.jpg");
     height: 100vh;      /*100vh means --> 100% of viewport height*/
     background-size: cover;
 }
